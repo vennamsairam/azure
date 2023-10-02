@@ -8,7 +8,7 @@ However, you still need to maintain the virtual machine by performing tasks,
 
 ```
 how to connect to linex vitual manchine
-ssh -i httpd_key.pem azureuser@74.235.144.208
+ssh -i httpd_key.pem azureuser@74.235.xxx.xxx
 
 
 how to connect to windows vitual manchine
