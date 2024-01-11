@@ -12,3 +12,7 @@ ssh -i httpd_key.pem azureuser@74.235.xxx.xxx
 
 
 how to connect to windows vitual manchine
+
+rdp port n0- 3389
+
+
