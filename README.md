@@ -7,6 +7,6 @@ IDE ---- Integrated development environment..vscode
 yaml -- yet another markup language
 json -- javascript object notation
 pdf -- pocket digital format
-jpgjoint photographic experts group 
+jpg -- joint photographic experts group 
 
 
